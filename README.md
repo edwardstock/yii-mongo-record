@@ -37,7 +37,7 @@ If you have anonymous connection, use next config:
 
 
 <br/>
-For more configuration. see [MongoDbConnection](wiki/MongoDbConnection.md)
+For more configuration. see [MongoDbConnection](https://github.com/edwardstock/yii-mongo-record/wiki/MongoDbConnection)
 
 # Basic example
 
