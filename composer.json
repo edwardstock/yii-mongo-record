@@ -1,0 +1,17 @@
+{
+	"name": "edwardstock/yii-mongo-record",
+	"description": "Yii1 MongoDB ActiveRecord model implementation",
+	"require-dev": {
+		"phpunit/phpunit": "^5.0"
+	},
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Eduard Maximovich",
+			"email": "edward.vstock@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii": "dev-master"
+	}
+}
