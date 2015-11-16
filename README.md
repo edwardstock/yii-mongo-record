@@ -1,6 +1,10 @@
 # yii-mongo-record
 Yii1 MongoDB ActiveRecord model implementation
 
+# Documentation
+
+See link: [API DOCUMENTATION](https://github.com/edwardstock/yii-mongo-record/wiki)
+
 # Installation
 
 Via composer: 
