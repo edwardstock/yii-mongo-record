@@ -1,6 +1,17 @@
 # yii-mongo-record
 Yii1 MongoDB ActiveRecord model implementation
 
+# Features
+* Native Yii1 validation
+* Aggregation Framework Builder
+* Aggregative inherited functions (MongoRecord::count(), MongoRecord::max(), MongoRecord::min(), MongoRecord::distinct($field) etc)
+* Relations between MongoRecord classes BELONGS_TO, HAS_ONE, HAS_MANY and HAS_RELATION_WITH<sup>new</sup> (checks for item has related element, if so returns true, another false)
+* MongoDbCriteria - Clone of CDbCriteria for mongo
+* MongoDataProvider - Clone of CActiveDataProvider. U can use it in all standard GridView, ListView etc...
+* MongoPager - paginator
+* MongoSort - sorter special for mongo
+
+
 # Documentation
 
 See link: [API DOCUMENTATION](https://github.com/edwardstock/yii-mongo-record/wiki)
